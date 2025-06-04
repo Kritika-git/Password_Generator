@@ -1,4 +1,5 @@
 # Password Generator
+Live Website: [https://kritika-git.github.io/Password_Generator/](https://kritika-git.github.io/Password_Generator/)
 
 ## Overview
 
